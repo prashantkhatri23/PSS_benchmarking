@@ -16,9 +16,6 @@ In the context of PSS, these IDs introduce significant data leakage: because the
 
 ```
 data/
-├── tobacco800/
-│   ├── tobacco800_train_redacted.pdf  # Redacted training stream
-│   └── tobacco800_test_redacted.pdf   # Redacted test stream
 └── tabme/
     └── tabme_artifact_removal.ipynb   # Artifact removal pipeline for TABME
 ```
@@ -31,7 +28,7 @@ The redacted Tobacco800 dataset is available via Zenodo: **[TODO: add Zenodo lin
 
 The dataset contains **1,290 pages** — one fewer than the original dataset. We observed that one file was a duplicate: `wfg55f00` is a copy of `wfg55f00_1`, so we retained only one.
 
-We provide the train and test page streams as combined PDF files (`tobacco800_train_redacted.pdf`, `tobacco800_test_redacted.pdf`), assembled from the individual redacted images. The procedure is described in detail in the paper.
+The Zenodo deposit includes the redacted images alongside `tobacco800_test_redacted.pdf`, a combined PDF of the test page stream assembled from the individual redacted images. The procedure is described in detail in the paper. The train stream is not fixed — users can construct it from the remaining images as needed.
 
 ### OCR Format
 
