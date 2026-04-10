@@ -24,7 +24,7 @@ data/
 
 ## Tobacco800 (Redacted)
 
-The redacted Tobacco800 dataset is available via Zenodo: **[TODO: add Zenodo link]**
+The redacted Tobacco800 dataset is available via [Zenodo](https://zenodo.org/records/19489921?token=eyJhbGciOiJIUzUxMiIsImlhdCI6MTc3NTc4MDY4OSwiZXhwIjoxNzgwMjcxOTk5fQ.eyJpZCI6IjY4NDQxNWJlLWVkZTEtNDYzNC05OTliLTMyOGQwNjg1Zjk2NSIsImRhdGEiOnt9LCJyYW5kb20iOiIxMzE5ZTFjNGFmODg2ZDA0NmI1NGE0NjA2ZTI4OGY4NyJ9.xGjUp6qFtGW8khsMFB9ICcelFSBaXCRZh4wgF9kvvg4T9lG4yNGX6dnEDHKyShLglRR5_eCPv_LZCWUXDFHVrA).
 
 The dataset contains **1,290 pages** — one fewer than the original 1,291. We observed that one file was a duplicate: `wfg55f00` is a copy of `wfg55f00_1`, so we retained only one.
 
