@@ -26,7 +26,7 @@ data/
 
 The redacted Tobacco800 dataset is available via Zenodo: **[TODO: add Zenodo link]**
 
-The dataset contains **1,290 pages** — one fewer than the original dataset. We observed that one file was a duplicate: `wfg55f00` is a copy of `wfg55f00_1`, so we retained only one.
+The dataset contains **1,290 pages** — one fewer than the original 1,291. We observed that one file was a duplicate: `wfg55f00` is a copy of `wfg55f00_1`, so we retained only one.
 
 The Zenodo deposit includes the redacted images alongside `tobacco800_test_redacted.pdf`, a combined PDF of the test page stream assembled from the individual redacted images. The procedure is described in detail in the paper. The train stream is not fixed — users can construct it from the remaining images as needed.
 
